@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   entry: {
     main: './src/app.js',
-    frases: './src/js/frases.js',
+    clases: './src/js/clases.js',
   },
   output: {
     filename: '[name].main.js',
